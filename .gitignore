@@ -1,0 +1,17 @@
+build/
+dist/
+*.egg-info/
+.vscode/
+*.out
+*.o
+main
+__pycache__/
+*.pyc
+*.so
+spokennumbers-*/
+*.tar.xz
+*.deb
+*.buildinfo
+*.changes
+*.dsc
+sandbox.py
